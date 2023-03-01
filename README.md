@@ -1,6 +1,6 @@
 # Тестовое задание для Android разработчиков #
 
-Выполните тестовое задание используя след. стек технологий: RxJava2(3), Dagger2, Room, MVVM, Single Activity Application.
+Выполните тестовое задание используя след. стек технологий: Coroutines, Dagger2, Room, MVVM, Single Activity Application, Compose.
 
 ## Приложение мониторинг заболеваемости COVID-19, покажем статистику на двух экранах.
 
